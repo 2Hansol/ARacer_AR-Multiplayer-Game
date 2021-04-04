@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928470553649",
+    "firebase_url": "https://arboardgame-a4e15.firebaseio.com",
+    "project_id": "arboardgame-a4e15",
+    "storage_bucket": "arboardgame-a4e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928470553649:android:376f93ac23fbc1926c3110",
+        "android_client_info": {
+          "package_name": "com.JinHanYeomOne.firebasedavinci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928470553649-dtr2v3ci0h44bg4dgg161ddud2mm6lmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMVIHc2kzKHejZ-Azd3QgJcI3004hE7dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928470553649-dtr2v3ci0h44bg4dgg161ddud2mm6lmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
