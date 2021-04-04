@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/35680342/113509148-f0a26000-958e-11eb-865c-19cb18829a6b.png)
 
 - [프로젝트 발표 자료](https://drive.google.com/file/d/1tWerjSSK2LKr4IjPNzA9es9rl-sFce5E/view?usp=sharing)
-- [데모 ](https://www.youtube.com/watch?v=XymFAvKdM3Q&list=WL&index=8)
+- [데모 영상](https://www.youtube.com/watch?v=XymFAvKdM3Q&list=WL&index=8)
 
 <br>
 
