@@ -13,7 +13,7 @@ A(에이)-Racer는 AR 기술을 사용해  시공간의 제약을 넘어 언제 
 
 <br>
 ## Function
-![image](https://user-images.githubusercontent.com/35680342/113509286-b9807e80-958f-11eb-8e40-af00f977cd7b.png)
+![image2](https://user-images.githubusercontent.com/35680342/113509286-b9807e80-958f-11eb-8e40-af00f977cd7b.png)
 
 <br>
 
