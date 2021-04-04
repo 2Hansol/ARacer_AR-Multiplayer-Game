@@ -6,6 +6,7 @@
 
 - [프로젝트 발표 자료](https://drive.google.com/file/d/1tWerjSSK2LKr4IjPNzA9es9rl-sFce5E/view?usp=sharing)
 - [데모 영상](https://www.youtube.com/watch?v=XymFAvKdM3Q&list=WL&index=8)
+- [안드로이드 apk](https://drive.google.com/file/d/1PDR0ymVudRDKVOm5UKnU7D5XHaM1Q3KX/view?usp=sharing)
 
 <br>
 
