@@ -1,8 +1,0 @@
-
-=== Mon Feb  3 16:43:32 2020
-
-Packages were changed.
-Update Mode: resetToDefaultDependencies
-
-The following packages were removed:
-  com.ptc.vuforia.engine@8.5.9
