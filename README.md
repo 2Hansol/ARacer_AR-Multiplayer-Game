@@ -17,11 +17,14 @@ AR RC-Car Multiplayer Racing Game is a game which gets ideas from existing RC ca
 It is implemented as a multiplayer game so that two players can control the movement of the car on the track together. The advantage of AR is that you can designate and place the racing track anywhere you want to feel the realism. In the case of this game using AR, it is simple and efficient in that all players who play together need to prepare is a mobile device.
 <br>
 
+<!--
 ## Function
 
 ![image2](https://user-images.githubusercontent.com/35680342/113509286-b9807e80-958f-11eb-8e40-af00f977cd7b.png)
 
 <br>
+
+-->
 
 ## Develop Framework & Enviroment
 - Unity
