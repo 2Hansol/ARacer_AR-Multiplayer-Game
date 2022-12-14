@@ -1,7 +1,7 @@
 # ARacer_AR-Multiplayer-Game
 
 
-## 2020 숙명여대 컴퓨터 과학 전공 졸업 작품 : A-Racer
+## 2020 Graduation Project : A-Racer
 ![image](https://user-images.githubusercontent.com/35680342/113509148-f0a26000-958e-11eb-865c-19cb18829a6b.png)
 
 - [Project presentation](https://drive.google.com/file/d/1tWerjSSK2LKr4IjPNzA9es9rl-sFce5E/view?usp=sharing)
@@ -31,8 +31,8 @@ It is implemented as a multiplayer game so that two players can control the move
 - ARFoundation, ARCore
 
 ## Reference 
-- [레드로의 유니티 게임 프로그래밍 에센스](http://www.yes24.com/Product/Goods/69320872)
-- [유니티 멀티 플레이어](https://www.youtube.com/watch?v=0QY_W-7PSbI)
+- [Retro's Unity Game Programming Essence](http://www.yes24.com/Product/Goods/69320872)
+- [Unity Multiplayer](https://www.youtube.com/watch?v=0QY_W-7PSbI)
 - [Beyblade AR](https://assetstore.unity.com/packages/templates/tutorials/photon-multiplayer-ar-beyblade-ar-157814?locale=ko-KR)
 - [Multiplayer Augmented Reality Game: SpinnerTop AR Battles- Beyblade AR Battles](https://www.youtube.com/watch?v=s1UhNwR2H0s)
 
